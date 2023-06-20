@@ -1,3 +1,6 @@
-Simple true or false french language verb quiz.
+## pt-br
+### Sobre
 Um simples questionário verdadeiro ou falso para verbos em francês.
-Un quiz simple vrai ou faux pour les verbes français.
+## eng-us
+### About
+Simple true or false french language verb quiz.
